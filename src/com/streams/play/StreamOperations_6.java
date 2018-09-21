@@ -31,7 +31,6 @@ public class StreamOperations_6 {
         Fruit anyFruit = fruits.stream().findAny().orElse(newFruit("papaya", 5));
         System.out.println("any" + someFruit);
 
-
     }
 
 
