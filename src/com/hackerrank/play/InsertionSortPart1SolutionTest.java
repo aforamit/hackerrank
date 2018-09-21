@@ -1,6 +1,6 @@
-import org.testng.annotations.Test;
+package com.hackerrank.play;
 
-import java.util.Scanner;
+import org.testng.annotations.Test;
 
 /**
  * Created by amit on 12/16/2015.

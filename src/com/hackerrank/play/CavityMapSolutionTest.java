@@ -1,3 +1,5 @@
+package com.hackerrank.play;
+
 import org.testng.annotations.Test;
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package streams_examples;
+package com.streams.play;
 
 import java.util.Arrays;
 import java.util.List;

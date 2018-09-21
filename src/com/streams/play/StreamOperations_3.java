@@ -1,4 +1,4 @@
-package streams_examples;
+package com.streams.play;
 
 import java.util.Comparator;
 import java.util.List;

@@ -1,3 +1,5 @@
+package com.hackerrank.play;
+
 import java.util.*;
 import java.util.stream.IntStream;
 
